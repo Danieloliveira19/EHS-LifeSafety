@@ -1,4 +1,3 @@
-<!-- src/views/OcorrenciaView.vue -->
 <template>
   <div class="pagina-web">
     <!-- Barra superior estilo Sistema Web Corporativo -->

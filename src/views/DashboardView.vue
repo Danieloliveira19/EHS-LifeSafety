@@ -1,6 +1,4 @@
 
-<!-- src/views/DashboardView.vue -->
-
 <template>
   <div class="dashboard-layout">
     <header class="topo-dashboard">
