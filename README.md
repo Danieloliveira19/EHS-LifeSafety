@@ -124,7 +124,7 @@ Passo a passo
 Clone o repositório:
 
 Bash
-git clone [https://github.com/SEU-USUARIO/EHS-LifeSafety.git](https://github.com/SEU-USUARIO/EHS-LifeSafety.git)
+git clone https://github.com/Danieloliveira19/EHS-LifeSafety
 Acesse a pasta do projeto:
 
 Bash
